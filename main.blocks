@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="/^FtG=3S!6x6%z4-:/!+" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="txN_XvoTrIIvoBxjq/rw"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . # 
+        . # . . #
+        `</field><next><block type="device_pause" id="P^*Jg@QK3dh{K)3X|@lR"><value name="pause"><shadow type="timePicker" id="{=`b/q%PeG!~,%#Q[mc^"><field name="ms">0.1</field></shadow></value><next><block type="device_show_leds" id="eELK2[,:0Hi16,j1mTeq"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="nuPjPJ-a6wYNmZ`CuOt0"><value name="pause"><shadow type="timePicker" id="LDh.pZL,@0uSkq8LFMrD"><field name="ms">0.1</field></shadow></value><next><block type="device_show_leds" id="[a{pKsH}:u}T?uI*pZ6]"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . . . . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="^;O8s^`m,d(2@*~RIOf("><value name="pause"><shadow type="timePicker" id="w{cGT[J8y)#H35DGEk+K"><field name="ms">0.1</field></shadow></value><next><block type="device_show_leds" id="NMk5^Vj*Wv*=:FKjB[Kd"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . . . 
+        . # . . . 
+        . # . . .
+        `</field><next><block type="device_pause" id="KkKk06*`,/DJe~a[s*TC"><value name="pause"><shadow type="timePicker" id="!0#Pw/U]Y_~sihB,w}$9"><field name="ms">0.1</field></shadow></value><next><block type="device_show_leds" id=".jI`KNu]%$;+z68kJ{D="><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # . . . 
+        # . . . .
+        `</field><next><block type="device_pause" id="KuxpdX@,$_hLtV%Bfe=="><value name="pause"><shadow type="timePicker" id="Xbyy9zJcQok+D?{P6^Cf"><field name="ms">0.1</field></shadow></value><next><block type="device_show_leds" id="rg|,G5G$(6|-Xt(|+ta="><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . # . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
